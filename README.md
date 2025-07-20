@@ -1,5 +1,7 @@
 # 📊 Trainity Data Analytics Virtual Internship
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 Welcome to my GitHub repository showcasing the projects, certificates, and portfolio I completed during my *Virtual Internship in Data Analytics* at *Trainity*. This internship provided hands-on experience in real-world business analytics scenarios using tools like Python, SQL, Excel, and Power BI.
 
 ---
